@@ -1,0 +1,1 @@
+Recreating a (non-functionable) version of the google homepage. I'm doing this project hoping to apply and hone my html and css skills.
